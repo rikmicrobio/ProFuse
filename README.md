@@ -8,7 +8,7 @@ Here’s the updated `README.md` file with the names changed to `protein1.pdb` a
 
 
 
-![image_intoduction_ProFuse](https://github.com/user-attachments/assets/c98d74a3-089c-422f-9e3f-ab4d46db4a19)
+![image_intoduction_ProFuse](https://github.com/user-attachments/assets/4a2aea60-4752-4885-a11a-29ba26a4ead4)
 
 
 
