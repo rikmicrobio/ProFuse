@@ -6,6 +6,12 @@ Here’s the updated `README.md` file with the names changed to `protein1.pdb` a
 
 **ProFuse** is a Python-based tool designed to fuse two protein structures by aligning the C-terminal of one protein to the N-terminal of another, creating a seamless chimeric protein. This is particularly useful for studying protein-protein interactions, chimeric protein design, and structural analysis.
 
+
+
+![image_intoduction_ProFuse](https://github.com/user-attachments/assets/c98d74a3-089c-422f-9e3f-ab4d46db4a19)
+
+
+
 ## ✨ Features
 - **Automated Protein Fusion**: ProFuse automatically aligns the C-terminal of the first protein to the N-terminal of the second, ensuring no overlap between the structures.
 - **Flexible PDB Input**: Easily fuse any two PDB files representing protein structures.
